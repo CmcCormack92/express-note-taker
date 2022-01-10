@@ -27,8 +27,8 @@
 
 
   ## Contributing
-  *Christopher McCormack
-  *Xander Rapstine
+  * Christopher McCormack
+  * Xander Rapstine
 
   ## Tests
   N/A
