@@ -42,7 +42,7 @@
 
   [GitHub](https://github.com/CmcCormack92)
   
-  [GitHub Repo](https://github.com/CmcCormack92/express-note-taker)
+  [GitHub Repo](https://github.com/CmcCormack92/jot-it-down)
 
   [Heroku link](https://sleepy-basin-00125.herokuapp.com/)
 
