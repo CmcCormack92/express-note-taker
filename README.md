@@ -3,6 +3,11 @@
 
   ## Description
   This program allows the user to write notes with a title and text description on the right side of the screen. Those notes populate on the left and are also saved to a local server side database. When you click on a saved note it will then enlarge on the right side where the note was originally written. 
+  
+  ## Screenshots
+  <img width="1440" alt="Screen Shot 2022-01-11 at 3 30 33 PM" src="https://user-images.githubusercontent.com/86354138/149016685-89eaa412-679f-4092-8f67-fa08ffd7c162.png">
+
+<img width="1440" alt="Screen Shot 2022-01-11 at 3 30 43 PM" src="https://user-images.githubusercontent.com/86354138/149016698-94cee90d-d0cb-4c1e-8524-8d947b03da33.png">
 
   ## Table of contents
 
